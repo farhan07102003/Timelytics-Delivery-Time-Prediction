@@ -1,0 +1,1001 @@
+product_category,customer_location,shipping_method,delivery_time_hours
+Home & Kitchen,Europe,Overnight,97
+Books,Asia,Express,71
+Electronics,North America,Overnight,112
+Home & Kitchen,North America,Overnight,117
+Home & Kitchen,North America,Standard,23
+Books,North America,Standard,60
+Electronics,Other,Overnight,53
+Electronics,North America,Standard,49
+Home & Kitchen,Other,Express,93
+Clothing,Other,Express,56
+Home & Kitchen,North America,Standard,46
+Home & Kitchen,North America,Express,41
+Home & Kitchen,Europe,Standard,99
+Home & Kitchen,Asia,Overnight,117
+Books,North America,Overnight,41
+Electronics,Europe,Express,89
+Books,Europe,Standard,17
+Books,Asia,Standard,78
+Books,Other,Express,91
+Home & Kitchen,North America,Overnight,18
+Clothing,Asia,Express,63
+Electronics,North America,Overnight,25
+Clothing,Europe,Standard,84
+Books,Europe,Overnight,26
+Books,Other,Express,32
+Clothing,Europe,Standard,46
+Clothing,Europe,Express,77
+Clothing,Asia,Express,102
+Books,North America,Overnight,13
+Books,North America,Express,46
+Electronics,Asia,Overnight,93
+Electronics,Other,Standard,89
+Books,North America,Overnight,31
+Clothing,Europe,Standard,93
+Clothing,North America,Overnight,21
+Electronics,Europe,Express,36
+Books,Other,Overnight,77
+Electronics,Asia,Overnight,36
+Electronics,North America,Standard,65
+Home & Kitchen,Asia,Express,44
+Home & Kitchen,North America,Overnight,47
+Home & Kitchen,Europe,Express,106
+Clothing,Asia,Overnight,25
+Books,North America,Overnight,76
+Books,Europe,Express,91
+Books,Asia,Overnight,65
+Books,Asia,Express,63
+Home & Kitchen,North America,Overnight,14
+Clothing,North America,Standard,110
+Clothing,North America,Express,52
+Home & Kitchen,Europe,Overnight,17
+Clothing,North America,Overnight,36
+Home & Kitchen,Asia,Standard,24
+Books,Asia,Express,109
+Home & Kitchen,North America,Overnight,19
+Books,North America,Standard,32
+Books,Other,Overnight,109
+Electronics,Asia,Express,79
+Home & Kitchen,Europe,Overnight,36
+Electronics,Other,Overnight,90
+Home & Kitchen,North America,Overnight,79
+Home & Kitchen,North America,Overnight,56
+Electronics,Asia,Standard,71
+Electronics,North America,Standard,23
+Home & Kitchen,Europe,Express,43
+Clothing,Asia,Standard,107
+Books,North America,Standard,103
+Electronics,Asia,Express,24
+Books,North America,Standard,42
+Clothing,North America,Standard,89
+Clothing,North America,Express,31
+Clothing,Europe,Express,29
+Electronics,Europe,Express,104
+Clothing,Asia,Overnight,71
+Electronics,North America,Overnight,74
+Clothing,North America,Express,17
+Books,Europe,Express,43
+Books,North America,Express,104
+Home & Kitchen,Europe,Overnight,54
+Books,North America,Overnight,13
+Home & Kitchen,Asia,Standard,71
+Books,North America,Standard,34
+Electronics,North America,Express,94
+Books,Other,Overnight,42
+Home & Kitchen,Europe,Overnight,16
+Home & Kitchen,North America,Overnight,94
+Clothing,North America,Express,45
+Electronics,Other,Standard,21
+Books,Other,Express,100
+Clothing,Europe,Standard,13
+Books,Other,Standard,22
+Books,Asia,Express,61
+Clothing,Other,Standard,42
+Clothing,Asia,Standard,67
+Clothing,Europe,Overnight,90
+Clothing,Europe,Standard,84
+Clothing,Europe,Express,98
+Books,Europe,Express,94
+Clothing,Europe,Standard,20
+Electronics,Asia,Overnight,110
+Home & Kitchen,Asia,Overnight,32
+Clothing,Europe,Standard,84
+Clothing,Other,Standard,39
+Books,North America,Express,73
+Clothing,Europe,Standard,18
+Clothing,Other,Overnight,91
+Clothing,North America,Standard,27
+Books,Europe,Express,108
+Clothing,Europe,Express,15
+Home & Kitchen,Asia,Express,15
+Books,North America,Express,114
+Home & Kitchen,North America,Express,51
+Books,Other,Standard,28
+Clothing,Asia,Standard,112
+Home & Kitchen,Asia,Standard,114
+Books,Asia,Standard,63
+Electronics,Asia,Express,104
+Clothing,North America,Overnight,63
+Books,North America,Standard,47
+Electronics,Europe,Overnight,49
+Books,Europe,Standard,114
+Electronics,Asia,Standard,61
+Clothing,Asia,Overnight,74
+Home & Kitchen,Asia,Express,112
+Electronics,Europe,Standard,74
+Books,Other,Standard,73
+Clothing,Other,Standard,110
+Electronics,Europe,Overnight,18
+Books,Europe,Express,38
+Books,Europe,Overnight,103
+Books,Europe,Overnight,97
+Electronics,Europe,Express,25
+Electronics,Europe,Overnight,82
+Electronics,Asia,Express,112
+Home & Kitchen,Asia,Standard,97
+Electronics,Asia,Express,16
+Electronics,Asia,Standard,66
+Electronics,Europe,Overnight,13
+Home & Kitchen,Other,Overnight,73
+Electronics,North America,Standard,102
+Books,Europe,Overnight,32
+Electronics,North America,Express,113
+Books,Other,Standard,90
+Books,Asia,Overnight,32
+Books,Other,Standard,21
+Home & Kitchen,Europe,Express,98
+Home & Kitchen,Asia,Express,69
+Home & Kitchen,Europe,Overnight,50
+Electronics,Asia,Express,16
+Books,North America,Standard,76
+Home & Kitchen,North America,Express,24
+Home & Kitchen,North America,Standard,96
+Electronics,Other,Standard,101
+Home & Kitchen,Europe,Express,96
+Electronics,Other,Overnight,64
+Clothing,North America,Express,93
+Home & Kitchen,Europe,Standard,112
+Clothing,North America,Standard,56
+Electronics,Other,Express,43
+Books,Other,Overnight,47
+Home & Kitchen,Other,Overnight,92
+Electronics,North America,Standard,110
+Books,Europe,Standard,71
+Books,Europe,Overnight,22
+Clothing,North America,Express,74
+Electronics,Europe,Standard,32
+Books,North America,Standard,63
+Home & Kitchen,Europe,Overnight,66
+Home & Kitchen,Asia,Express,37
+Clothing,Asia,Overnight,79
+Books,Other,Express,45
+Electronics,Asia,Express,63
+Home & Kitchen,Asia,Express,93
+Books,Asia,Standard,115
+Books,North America,Overnight,110
+Clothing,Asia,Overnight,116
+Home & Kitchen,Asia,Express,104
+Home & Kitchen,Other,Standard,63
+Electronics,Asia,Standard,40
+Home & Kitchen,Asia,Overnight,49
+Electronics,Europe,Standard,53
+Home & Kitchen,Other,Standard,32
+Clothing,Other,Express,53
+Home & Kitchen,Other,Standard,24
+Electronics,Other,Express,116
+Electronics,Other,Overnight,75
+Clothing,Other,Standard,28
+Home & Kitchen,North America,Overnight,20
+Home & Kitchen,Asia,Overnight,52
+Clothing,Other,Standard,12
+Home & Kitchen,Asia,Standard,13
+Home & Kitchen,Asia,Overnight,71
+Electronics,North America,Standard,59
+Home & Kitchen,Other,Express,40
+Home & Kitchen,Europe,Express,108
+Clothing,North America,Standard,21
+Clothing,Europe,Overnight,69
+Books,Asia,Standard,71
+Electronics,Asia,Standard,115
+Home & Kitchen,North America,Overnight,32
+Home & Kitchen,North America,Overnight,39
+Books,Europe,Express,86
+Home & Kitchen,Other,Overnight,45
+Electronics,Europe,Express,19
+Books,North America,Overnight,70
+Electronics,Europe,Standard,97
+Books,North America,Express,83
+Books,Europe,Express,60
+Clothing,North America,Express,90
+Electronics,North America,Standard,28
+Home & Kitchen,North America,Standard,71
+Home & Kitchen,Other,Standard,98
+Electronics,Europe,Standard,99
+Home & Kitchen,Europe,Standard,56
+Home & Kitchen,Europe,Express,94
+Electronics,North America,Standard,80
+Books,Europe,Express,43
+Electronics,Europe,Standard,55
+Books,North America,Overnight,76
+Home & Kitchen,Asia,Express,98
+Home & Kitchen,North America,Overnight,112
+Home & Kitchen,Europe,Express,19
+Clothing,North America,Overnight,88
+Books,Asia,Standard,83
+Clothing,North America,Standard,98
+Clothing,Europe,Standard,54
+Electronics,Asia,Express,12
+Clothing,Other,Overnight,62
+Electronics,Europe,Standard,35
+Electronics,Asia,Overnight,110
+Clothing,Asia,Overnight,35
+Books,Other,Standard,28
+Books,North America,Standard,16
+Books,North America,Overnight,31
+Books,Europe,Standard,32
+Books,Other,Standard,115
+Clothing,North America,Standard,69
+Clothing,Other,Express,42
+Home & Kitchen,North America,Overnight,111
+Books,Asia,Overnight,22
+Clothing,North America,Express,63
+Home & Kitchen,Other,Overnight,26
+Books,Asia,Standard,94
+Electronics,Asia,Overnight,18
+Home & Kitchen,Asia,Standard,39
+Clothing,Other,Express,62
+Electronics,Europe,Standard,118
+Electronics,Europe,Overnight,69
+Electronics,Europe,Overnight,16
+Home & Kitchen,Other,Overnight,16
+Clothing,Asia,Express,105
+Electronics,Europe,Express,107
+Books,Other,Overnight,19
+Electronics,Europe,Standard,75
+Electronics,North America,Express,21
+Home & Kitchen,Europe,Overnight,49
+Home & Kitchen,Europe,Overnight,107
+Clothing,Asia,Express,103
+Books,Other,Express,92
+Home & Kitchen,Asia,Express,106
+Electronics,Asia,Standard,19
+Clothing,Asia,Standard,115
+Electronics,Asia,Overnight,36
+Electronics,Asia,Express,84
+Home & Kitchen,Europe,Standard,77
+Clothing,Asia,Express,90
+Books,Asia,Overnight,61
+Books,Other,Standard,78
+Home & Kitchen,North America,Standard,60
+Home & Kitchen,Europe,Standard,47
+Clothing,Europe,Overnight,79
+Books,Europe,Express,89
+Books,Asia,Standard,116
+Books,Asia,Overnight,52
+Electronics,Asia,Express,100
+Books,Other,Overnight,73
+Electronics,North America,Express,21
+Clothing,Asia,Overnight,32
+Electronics,North America,Express,47
+Clothing,Other,Standard,23
+Books,Europe,Express,102
+Books,Asia,Overnight,115
+Clothing,North America,Overnight,13
+Home & Kitchen,North America,Express,24
+Clothing,Asia,Standard,64
+Home & Kitchen,Europe,Standard,43
+Electronics,Europe,Express,106
+Electronics,Europe,Express,27
+Electronics,Other,Overnight,43
+Books,North America,Standard,43
+Electronics,North America,Express,109
+Home & Kitchen,North America,Standard,22
+Electronics,Other,Express,21
+Clothing,North America,Express,26
+Clothing,Other,Standard,28
+Books,Europe,Express,51
+Clothing,Asia,Express,29
+Home & Kitchen,North America,Overnight,66
+Electronics,North America,Express,84
+Books,Europe,Express,36
+Electronics,Asia,Express,115
+Electronics,Other,Overnight,70
+Home & Kitchen,Asia,Standard,89
+Clothing,Europe,Overnight,100
+Clothing,Europe,Overnight,33
+Electronics,Asia,Standard,41
+Books,Other,Overnight,95
+Clothing,Other,Standard,96
+Books,North America,Overnight,55
+Clothing,Other,Standard,43
+Books,Asia,Express,62
+Home & Kitchen,Europe,Overnight,57
+Books,North America,Overnight,32
+Home & Kitchen,North America,Overnight,110
+Home & Kitchen,Europe,Overnight,43
+Books,Other,Express,105
+Home & Kitchen,Europe,Overnight,50
+Electronics,Other,Express,23
+Home & Kitchen,Europe,Express,116
+Clothing,Asia,Express,58
+Books,Other,Express,29
+Electronics,Asia,Standard,32
+Books,North America,Standard,24
+Clothing,Europe,Overnight,32
+Clothing,North America,Standard,19
+Clothing,North America,Standard,57
+Home & Kitchen,North America,Overnight,115
+Home & Kitchen,North America,Overnight,18
+Books,Europe,Overnight,34
+Books,North America,Standard,119
+Electronics,Europe,Standard,107
+Electronics,Europe,Overnight,86
+Books,Asia,Express,97
+Home & Kitchen,Other,Overnight,33
+Clothing,Other,Express,118
+Books,Europe,Express,100
+Electronics,Asia,Overnight,33
+Home & Kitchen,Europe,Overnight,103
+Books,Europe,Overnight,40
+Books,Europe,Standard,24
+Home & Kitchen,Asia,Express,93
+Books,Other,Standard,13
+Home & Kitchen,Asia,Standard,40
+Clothing,North America,Overnight,96
+Home & Kitchen,Asia,Standard,90
+Home & Kitchen,Asia,Overnight,63
+Home & Kitchen,Asia,Express,38
+Books,Asia,Overnight,61
+Books,Other,Standard,106
+Home & Kitchen,North America,Standard,90
+Books,Other,Overnight,34
+Electronics,Other,Overnight,99
+Electronics,Asia,Standard,55
+Books,Europe,Express,88
+Books,Europe,Express,33
+Home & Kitchen,Other,Overnight,54
+Clothing,Other,Express,48
+Books,Asia,Standard,72
+Electronics,Other,Overnight,108
+Home & Kitchen,Asia,Standard,67
+Books,Europe,Standard,14
+Electronics,Europe,Express,74
+Electronics,North America,Overnight,30
+Clothing,Europe,Overnight,34
+Home & Kitchen,Other,Express,40
+Home & Kitchen,Europe,Standard,41
+Clothing,Asia,Standard,50
+Clothing,Europe,Standard,119
+Home & Kitchen,North America,Standard,36
+Home & Kitchen,Europe,Overnight,112
+Books,Asia,Overnight,19
+Books,Asia,Express,117
+Clothing,Other,Express,69
+Books,Europe,Overnight,27
+Electronics,Asia,Overnight,83
+Books,North America,Standard,12
+Books,Other,Standard,119
+Electronics,North America,Express,16
+Clothing,Europe,Overnight,14
+Electronics,Europe,Express,76
+Books,Europe,Overnight,15
+Clothing,Other,Standard,115
+Books,Asia,Express,110
+Electronics,Other,Express,107
+Electronics,North America,Overnight,75
+Books,Other,Standard,117
+Home & Kitchen,North America,Express,109
+Home & Kitchen,Other,Standard,118
+Electronics,Asia,Express,100
+Electronics,North America,Standard,21
+Home & Kitchen,Europe,Overnight,32
+Home & Kitchen,Europe,Express,57
+Books,Other,Express,114
+Books,Europe,Standard,102
+Home & Kitchen,North America,Standard,38
+Books,Europe,Express,77
+Books,Asia,Overnight,52
+Clothing,Asia,Standard,24
+Books,Other,Standard,20
+Electronics,North America,Standard,47
+Books,Asia,Express,97
+Books,Asia,Express,117
+Home & Kitchen,North America,Express,101
+Electronics,Europe,Express,69
+Books,Europe,Overnight,65
+Books,Other,Overnight,23
+Clothing,Europe,Express,92
+Books,North America,Overnight,89
+Books,Asia,Standard,25
+Clothing,Europe,Standard,45
+Home & Kitchen,Other,Standard,64
+Books,Europe,Express,31
+Clothing,North America,Standard,86
+Electronics,Other,Overnight,27
+Home & Kitchen,Europe,Express,106
+Electronics,Other,Overnight,81
+Electronics,North America,Standard,67
+Clothing,Asia,Standard,94
+Books,North America,Standard,112
+Clothing,North America,Express,69
+Clothing,North America,Overnight,15
+Clothing,North America,Express,15
+Clothing,Asia,Express,31
+Home & Kitchen,Asia,Standard,21
+Books,Other,Express,35
+Electronics,Europe,Express,110
+Electronics,Asia,Standard,37
+Books,Asia,Express,48
+Electronics,Europe,Standard,113
+Books,Asia,Standard,96
+Electronics,North America,Standard,65
+Clothing,North America,Standard,115
+Electronics,Europe,Express,114
+Books,Other,Standard,32
+Books,Other,Standard,85
+Books,Europe,Express,49
+Books,Europe,Express,57
+Books,North America,Overnight,15
+Home & Kitchen,Other,Express,71
+Home & Kitchen,Asia,Express,68
+Electronics,North America,Overnight,56
+Books,Europe,Express,31
+Electronics,Other,Express,28
+Books,Asia,Express,82
+Books,Asia,Express,15
+Home & Kitchen,North America,Overnight,104
+Home & Kitchen,Other,Express,25
+Clothing,Other,Express,14
+Home & Kitchen,Europe,Overnight,99
+Clothing,Other,Standard,112
+Clothing,Other,Overnight,91
+Clothing,North America,Standard,69
+Clothing,Other,Overnight,66
+Clothing,Asia,Overnight,15
+Electronics,North America,Express,35
+Home & Kitchen,North America,Standard,45
+Clothing,Europe,Express,41
+Books,Other,Standard,93
+Home & Kitchen,Europe,Overnight,30
+Home & Kitchen,Asia,Overnight,42
+Clothing,North America,Standard,71
+Electronics,North America,Express,71
+Clothing,North America,Express,30
+Electronics,Asia,Express,60
+Books,Asia,Express,74
+Home & Kitchen,Europe,Overnight,94
+Books,Europe,Overnight,33
+Electronics,Europe,Overnight,35
+Electronics,Other,Overnight,87
+Books,North America,Overnight,41
+Electronics,North America,Express,69
+Books,Europe,Express,113
+Home & Kitchen,North America,Express,42
+Books,Europe,Express,111
+Home & Kitchen,Other,Overnight,75
+Books,Other,Overnight,30
+Electronics,Asia,Overnight,59
+Books,Other,Standard,56
+Electronics,Europe,Express,111
+Books,Other,Express,105
+Books,Asia,Overnight,66
+Clothing,North America,Express,66
+Electronics,Europe,Express,108
+Clothing,North America,Overnight,29
+Electronics,Asia,Standard,74
+Clothing,Asia,Standard,103
+Home & Kitchen,Asia,Standard,58
+Books,North America,Overnight,86
+Electronics,North America,Express,68
+Electronics,North America,Overnight,56
+Books,North America,Overnight,44
+Electronics,Asia,Express,28
+Electronics,Asia,Standard,81
+Clothing,Europe,Standard,15
+Electronics,Europe,Overnight,31
+Home & Kitchen,North America,Standard,58
+Home & Kitchen,Other,Overnight,102
+Books,Other,Overnight,26
+Electronics,Asia,Express,81
+Books,Asia,Express,58
+Home & Kitchen,Asia,Express,89
+Electronics,Europe,Overnight,86
+Electronics,Europe,Express,114
+Books,Asia,Standard,20
+Home & Kitchen,Asia,Standard,101
+Electronics,Asia,Overnight,27
+Books,Other,Overnight,80
+Home & Kitchen,Europe,Express,72
+Books,Other,Overnight,21
+Clothing,Other,Overnight,61
+Electronics,Asia,Standard,14
+Clothing,Asia,Standard,88
+Home & Kitchen,North America,Express,118
+Clothing,North America,Overnight,105
+Clothing,Other,Overnight,81
+Home & Kitchen,Europe,Standard,92
+Books,Asia,Overnight,62
+Clothing,Asia,Standard,30
+Books,Other,Express,53
+Clothing,North America,Standard,46
+Books,Europe,Overnight,57
+Home & Kitchen,North America,Express,37
+Clothing,North America,Standard,80
+Home & Kitchen,North America,Standard,104
+Clothing,North America,Express,75
+Home & Kitchen,Asia,Express,48
+Home & Kitchen,Asia,Standard,95
+Clothing,North America,Overnight,60
+Clothing,Europe,Standard,32
+Clothing,Other,Express,85
+Electronics,Europe,Standard,75
+Books,Europe,Express,16
+Electronics,Europe,Express,111
+Electronics,North America,Overnight,81
+Home & Kitchen,Asia,Express,101
+Clothing,Europe,Express,15
+Books,North America,Overnight,114
+Home & Kitchen,Europe,Express,50
+Electronics,Europe,Overnight,46
+Clothing,North America,Overnight,12
+Home & Kitchen,Asia,Express,35
+Clothing,Asia,Express,68
+Home & Kitchen,Other,Standard,111
+Clothing,North America,Overnight,81
+Electronics,Other,Standard,52
+Books,Other,Express,65
+Electronics,Other,Standard,57
+Books,Asia,Overnight,71
+Clothing,North America,Standard,119
+Home & Kitchen,Other,Overnight,71
+Electronics,North America,Express,68
+Books,North America,Express,42
+Electronics,Asia,Overnight,95
+Books,Other,Express,35
+Electronics,Other,Express,100
+Books,North America,Express,47
+Books,Europe,Express,96
+Clothing,Asia,Overnight,41
+Books,Asia,Standard,35
+Clothing,Asia,Standard,119
+Books,Asia,Express,117
+Home & Kitchen,Other,Standard,41
+Home & Kitchen,Other,Standard,97
+Home & Kitchen,Europe,Express,103
+Books,Asia,Express,18
+Clothing,Asia,Standard,46
+Clothing,North America,Overnight,66
+Books,Other,Express,103
+Home & Kitchen,Asia,Overnight,25
+Home & Kitchen,Europe,Standard,21
+Clothing,Europe,Express,91
+Home & Kitchen,Other,Overnight,27
+Electronics,Europe,Express,65
+Clothing,Europe,Standard,106
+Home & Kitchen,Other,Overnight,117
+Clothing,Asia,Standard,100
+Electronics,Asia,Standard,88
+Clothing,Europe,Express,81
+Clothing,Europe,Overnight,55
+Clothing,Asia,Standard,84
+Clothing,Other,Standard,56
+Electronics,Europe,Overnight,111
+Books,North America,Standard,67
+Clothing,Other,Standard,118
+Clothing,Europe,Overnight,95
+Home & Kitchen,Europe,Overnight,93
+Clothing,North America,Overnight,118
+Home & Kitchen,North America,Overnight,68
+Books,Asia,Express,32
+Electronics,Other,Overnight,79
+Electronics,Other,Express,61
+Books,Asia,Express,44
+Electronics,Other,Express,102
+Books,Other,Standard,18
+Books,Other,Express,81
+Books,Other,Express,26
+Electronics,Other,Standard,93
+Home & Kitchen,North America,Standard,43
+Books,Other,Standard,86
+Clothing,North America,Overnight,31
+Electronics,Other,Standard,99
+Books,Asia,Standard,26
+Books,Europe,Express,59
+Clothing,North America,Standard,82
+Home & Kitchen,Other,Overnight,32
+Home & Kitchen,Asia,Standard,53
+Home & Kitchen,Europe,Overnight,37
+Books,North America,Standard,119
+Books,Europe,Standard,25
+Books,Asia,Standard,68
+Electronics,North America,Standard,48
+Clothing,Europe,Overnight,69
+Books,Other,Overnight,32
+Clothing,North America,Express,93
+Clothing,Europe,Overnight,80
+Home & Kitchen,Asia,Standard,14
+Electronics,Asia,Express,98
+Books,North America,Express,101
+Home & Kitchen,Europe,Express,48
+Home & Kitchen,North America,Standard,99
+Books,North America,Overnight,60
+Clothing,Europe,Standard,30
+Home & Kitchen,Europe,Express,100
+Clothing,Other,Standard,96
+Electronics,Europe,Standard,23
+Clothing,Asia,Overnight,72
+Electronics,North America,Overnight,52
+Clothing,North America,Express,44
+Home & Kitchen,Asia,Standard,61
+Home & Kitchen,Europe,Standard,79
+Electronics,Asia,Overnight,117
+Books,Asia,Standard,82
+Electronics,Other,Standard,97
+Electronics,Asia,Standard,44
+Clothing,North America,Overnight,92
+Clothing,Asia,Express,35
+Electronics,North America,Express,72
+Home & Kitchen,North America,Standard,72
+Clothing,North America,Express,109
+Books,Europe,Overnight,39
+Clothing,Other,Overnight,69
+Clothing,North America,Express,54
+Books,North America,Express,52
+Electronics,Europe,Standard,50
+Books,North America,Express,97
+Electronics,Asia,Standard,60
+Electronics,Asia,Standard,28
+Electronics,Other,Overnight,109
+Books,North America,Overnight,81
+Electronics,Europe,Overnight,81
+Home & Kitchen,Asia,Overnight,109
+Books,Europe,Express,76
+Home & Kitchen,Europe,Overnight,85
+Electronics,Asia,Express,96
+Clothing,Europe,Overnight,16
+Electronics,Asia,Express,13
+Home & Kitchen,Europe,Standard,33
+Home & Kitchen,Asia,Express,68
+Books,North America,Express,77
+Clothing,Other,Overnight,85
+Books,Asia,Express,109
+Home & Kitchen,Asia,Standard,27
+Electronics,Other,Standard,62
+Clothing,Asia,Overnight,50
+Electronics,Asia,Standard,97
+Electronics,Europe,Express,87
+Clothing,Other,Standard,99
+Books,North America,Overnight,51
+Electronics,Asia,Express,49
+Home & Kitchen,Other,Overnight,71
+Electronics,Europe,Express,70
+Clothing,North America,Standard,21
+Clothing,Other,Overnight,110
+Clothing,North America,Overnight,75
+Books,North America,Express,74
+Electronics,North America,Overnight,60
+Books,Asia,Express,75
+Books,Asia,Express,43
+Clothing,Europe,Express,18
+Clothing,Europe,Express,32
+Books,Other,Standard,31
+Electronics,Europe,Express,37
+Home & Kitchen,North America,Overnight,79
+Books,North America,Standard,97
+Electronics,Asia,Overnight,26
+Clothing,North America,Standard,115
+Clothing,Other,Express,96
+Electronics,North America,Standard,90
+Home & Kitchen,North America,Standard,97
+Clothing,Other,Overnight,103
+Clothing,Europe,Overnight,25
+Clothing,Europe,Express,38
+Electronics,Other,Standard,116
+Books,Asia,Standard,51
+Clothing,North America,Standard,69
+Books,Other,Express,39
+Home & Kitchen,North America,Express,37
+Clothing,Asia,Express,74
+Clothing,North America,Express,77
+Home & Kitchen,Other,Express,36
+Clothing,North America,Overnight,14
+Books,Europe,Standard,83
+Electronics,Asia,Standard,55
+Books,Asia,Standard,108
+Electronics,Asia,Standard,53
+Electronics,Other,Standard,110
+Books,Asia,Standard,17
+Books,Europe,Standard,50
+Books,Other,Standard,63
+Books,Europe,Overnight,34
+Home & Kitchen,North America,Standard,100
+Clothing,North America,Overnight,61
+Electronics,North America,Express,54
+Books,North America,Standard,30
+Books,Europe,Express,80
+Books,Other,Express,62
+Home & Kitchen,Other,Express,22
+Books,Asia,Overnight,23
+Books,Europe,Express,85
+Books,North America,Express,19
+Clothing,Europe,Express,35
+Home & Kitchen,Asia,Standard,103
+Books,Asia,Standard,52
+Electronics,Europe,Overnight,47
+Electronics,Europe,Overnight,112
+Electronics,Europe,Standard,96
+Home & Kitchen,Other,Overnight,83
+Home & Kitchen,North America,Standard,66
+Electronics,Europe,Express,20
+Books,Europe,Express,58
+Home & Kitchen,Europe,Overnight,26
+Electronics,Asia,Standard,59
+Electronics,Asia,Standard,115
+Books,Other,Overnight,93
+Clothing,North America,Standard,53
+Home & Kitchen,Other,Express,71
+Books,North America,Overnight,95
+Electronics,Asia,Overnight,81
+Electronics,Asia,Standard,23
+Books,Asia,Overnight,13
+Home & Kitchen,Other,Standard,18
+Clothing,Europe,Standard,91
+Clothing,Europe,Standard,14
+Electronics,Asia,Standard,14
+Home & Kitchen,Europe,Standard,38
+Clothing,Europe,Overnight,118
+Home & Kitchen,Other,Express,51
+Home & Kitchen,North America,Express,113
+Electronics,Asia,Overnight,44
+Clothing,Asia,Overnight,103
+Books,Other,Express,12
+Electronics,Other,Express,19
+Clothing,Europe,Express,112
+Clothing,Asia,Express,43
+Clothing,North America,Express,59
+Clothing,Other,Standard,118
+Clothing,North America,Overnight,112
+Home & Kitchen,North America,Standard,15
+Electronics,Asia,Express,105
+Home & Kitchen,Asia,Express,81
+Books,Other,Express,30
+Clothing,Asia,Standard,43
+Electronics,Asia,Standard,20
+Clothing,Asia,Express,23
+Electronics,North America,Standard,22
+Home & Kitchen,Other,Standard,57
+Electronics,Europe,Express,27
+Books,North America,Standard,12
+Books,Asia,Overnight,74
+Electronics,North America,Overnight,32
+Electronics,Asia,Overnight,41
+Electronics,Asia,Overnight,24
+Electronics,North America,Express,45
+Books,Other,Express,15
+Clothing,Asia,Express,39
+Electronics,Other,Overnight,113
+Electronics,Europe,Overnight,106
+Books,Asia,Standard,70
+Books,Other,Standard,38
+Home & Kitchen,Other,Overnight,80
+Electronics,Europe,Overnight,36
+Home & Kitchen,Other,Overnight,14
+Books,Other,Overnight,108
+Books,Europe,Standard,79
+Clothing,Asia,Overnight,36
+Electronics,Other,Standard,31
+Home & Kitchen,Other,Overnight,45
+Books,Other,Overnight,37
+Books,North America,Overnight,16
+Home & Kitchen,Europe,Standard,110
+Clothing,North America,Standard,72
+Books,Europe,Express,103
+Electronics,Asia,Overnight,104
+Books,Asia,Express,20
+Electronics,Other,Express,113
+Home & Kitchen,Europe,Standard,61
+Electronics,Asia,Standard,17
+Home & Kitchen,Europe,Express,94
+Electronics,Asia,Overnight,71
+Home & Kitchen,North America,Standard,55
+Electronics,Asia,Overnight,22
+Clothing,North America,Overnight,77
+Electronics,Asia,Express,58
+Electronics,Other,Express,119
+Clothing,North America,Express,119
+Books,Asia,Express,84
+Books,Other,Standard,96
+Electronics,North America,Standard,99
+Clothing,Other,Express,109
+Electronics,Europe,Standard,97
+Home & Kitchen,Europe,Express,14
+Home & Kitchen,North America,Overnight,87
+Electronics,Asia,Overnight,103
+Books,North America,Overnight,41
+Books,Other,Express,101
+Electronics,Asia,Overnight,32
+Electronics,Europe,Standard,39
+Home & Kitchen,Asia,Overnight,101
+Books,Europe,Overnight,73
+Electronics,Asia,Overnight,44
+Home & Kitchen,Asia,Standard,96
+Books,Asia,Express,46
+Clothing,Other,Standard,63
+Home & Kitchen,Other,Express,45
+Books,North America,Express,52
+Books,North America,Overnight,62
+Home & Kitchen,Europe,Express,58
+Clothing,Other,Standard,93
+Home & Kitchen,Europe,Standard,69
+Books,North America,Express,86
+Electronics,Europe,Overnight,68
+Electronics,North America,Overnight,34
+Home & Kitchen,Other,Standard,59
+Books,Asia,Overnight,33
+Electronics,Other,Express,28
+Books,Europe,Express,80
+Home & Kitchen,Europe,Standard,119
+Electronics,Other,Express,22
+Books,Other,Standard,105
+Electronics,North America,Express,26
+Home & Kitchen,Europe,Standard,102
+Books,Europe,Overnight,46
+Electronics,Other,Express,44
+Home & Kitchen,Asia,Express,95
+Electronics,Europe,Standard,27
+Electronics,Asia,Standard,45
+Clothing,Other,Express,77
+Clothing,Other,Standard,110
+Home & Kitchen,North America,Express,51
+Clothing,Europe,Overnight,39
+Home & Kitchen,Asia,Standard,58
+Clothing,North America,Express,50
+Electronics,Europe,Overnight,81
+Home & Kitchen,North America,Overnight,84
+Home & Kitchen,Other,Express,31
+Electronics,Europe,Standard,12
+Home & Kitchen,North America,Express,83
+Home & Kitchen,North America,Overnight,98
+Clothing,Asia,Express,74
+Home & Kitchen,North America,Standard,78
+Books,Europe,Overnight,15
+Electronics,Europe,Express,69
+Clothing,Asia,Standard,36
+Clothing,Europe,Overnight,58
+Books,Other,Standard,49
+Electronics,Europe,Overnight,26
+Electronics,Europe,Express,74
+Clothing,North America,Standard,32
+Home & Kitchen,North America,Overnight,110
+Clothing,Europe,Standard,68
+Electronics,Asia,Standard,64
+Books,North America,Express,57
+Clothing,Asia,Standard,25
+Electronics,Europe,Overnight,111
+Clothing,Europe,Overnight,87
+Home & Kitchen,Other,Overnight,28
+Clothing,North America,Overnight,50
+Clothing,Europe,Express,20
+Electronics,Other,Standard,110
+Electronics,North America,Express,88
+Electronics,Europe,Standard,90
+Clothing,Europe,Standard,93
+Home & Kitchen,North America,Standard,108
+Books,North America,Express,17
+Books,North America,Standard,102
+Electronics,Europe,Express,34
+Electronics,Europe,Overnight,70
+Clothing,Other,Overnight,102
+Books,Asia,Standard,109
+Electronics,North America,Express,57
+Home & Kitchen,Europe,Overnight,49
+Home & Kitchen,Europe,Express,25
+Electronics,North America,Express,111
+Electronics,Asia,Standard,83
+Books,North America,Overnight,73
+Books,Asia,Standard,46
+Clothing,Europe,Standard,30
+Books,Asia,Overnight,41
+Home & Kitchen,Other,Overnight,89
+Home & Kitchen,Europe,Express,95
+Electronics,Other,Overnight,36
+Books,North America,Express,51
+Clothing,North America,Express,99
+Home & Kitchen,North America,Express,25
+Home & Kitchen,Asia,Overnight,37
+Clothing,Europe,Standard,113
+Clothing,North America,Express,98
+Home & Kitchen,North America,Standard,33
+Home & Kitchen,Europe,Standard,59
+Clothing,North America,Overnight,94
+Home & Kitchen,Other,Standard,62
+Electronics,Europe,Standard,14
+Electronics,Europe,Overnight,53
+Clothing,Europe,Express,30
+Books,Other,Standard,84
+Clothing,Europe,Overnight,39
+Clothing,Other,Standard,95
+Books,Europe,Standard,56
+Books,Asia,Express,82
+Books,North America,Standard,89
+Electronics,Asia,Overnight,74
+Home & Kitchen,North America,Standard,84
+Electronics,Other,Express,30
+Home & Kitchen,Asia,Express,58
+Electronics,Europe,Overnight,25
+Home & Kitchen,North America,Express,49
+Electronics,North America,Standard,64
+Books,Asia,Express,72
+Clothing,Other,Overnight,47
+Electronics,Asia,Express,51
+Home & Kitchen,Other,Express,92
+Books,Other,Express,41
+Electronics,North America,Overnight,20
+Electronics,Asia,Express,75
+Books,Asia,Express,44
+Electronics,Other,Standard,63
+Clothing,Asia,Overnight,100
+Electronics,Europe,Express,25
+Clothing,Europe,Overnight,86
+Clothing,Asia,Express,64
+Books,Asia,Express,110
+Electronics,Other,Express,116
+Books,Europe,Standard,70
+Electronics,Europe,Standard,89
+Electronics,North America,Standard,105
+Home & Kitchen,Other,Overnight,52
+Electronics,North America,Overnight,79
+Books,Europe,Standard,79
+Clothing,Other,Overnight,103
+Electronics,Asia,Express,19
+Home & Kitchen,Other,Express,13
+Books,Asia,Express,116
+Electronics,Asia,Standard,97
+Books,Other,Overnight,52
+Home & Kitchen,Asia,Standard,66
+Home & Kitchen,North America,Overnight,27
+Books,Europe,Express,104
+Electronics,Asia,Standard,73
+Clothing,North America,Overnight,59
+Home & Kitchen,Asia,Overnight,41
+Electronics,Europe,Express,23
+Electronics,North America,Standard,46
+Clothing,Europe,Standard,22
+Home & Kitchen,Europe,Standard,75
+Home & Kitchen,North America,Express,61
+Electronics,North America,Standard,96
+Electronics,North America,Express,32
+Clothing,Other,Express,80
+Clothing,North America,Express,59
+Home & Kitchen,North America,Overnight,31
+Books,North America,Standard,112
+Home & Kitchen,North America,Standard,78
+Electronics,Asia,Express,55
+Home & Kitchen,Other,Express,44
+Books,Europe,Standard,84
+Clothing,North America,Express,72
+Books,Asia,Standard,20
+Books,Asia,Overnight,79
+Books,Asia,Express,46
+Clothing,Europe,Standard,92
+Books,North America,Express,109
+Books,Other,Standard,99
+Books,Other,Standard,107
+Electronics,Asia,Express,76
+Books,Europe,Overnight,19
+Clothing,Europe,Standard,56
+Books,Europe,Standard,98
+Books,Other,Standard,58
+Clothing,Asia,Overnight,51
+Books,North America,Overnight,87
+Clothing,Other,Express,65
+Books,Asia,Overnight,87
+Clothing,Asia,Express,57
+Books,North America,Express,58
+Books,North America,Overnight,26
+Electronics,North America,Express,116
+Electronics,Europe,Overnight,30
+Books,North America,Express,37
+Books,Asia,Overnight,63
+Home & Kitchen,North America,Overnight,104

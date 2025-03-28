@@ -1,0 +1,5 @@
+streamlit
+scikit-learn==1.0.2  # Match the version used locally
+pandas
+joblib
+numpy
